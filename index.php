@@ -1,5 +1,5 @@
 <?php
-define("HOSTNAME", "https://williamborely.github.io/project/");
+define("HOSTNAME", "https://williamborely.github.io/project/"); 
 
 /*   
   * Constantes de parâmetros para configuração da conexão   
